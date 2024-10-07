@@ -84,14 +84,10 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
+
 
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20">Github stats:</h2> 
