@@ -24,7 +24,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br/>
 
 <div align="center">
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
+<h3 align="center" > <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px">Connect with me</h3>
 
 
 <a href="www.linkedin.com/in/themika-dilushanka-41100130a" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
@@ -36,7 +36,8 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br/>
 <br/>
 <div align="center">
-<h3 align="center">Support:<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h3>
+<h3 align="center">Support:<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
+</h3>
 <p><a href="https://www.buymeacoffee.com/themikadilushanka"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Themika Dilushanka" /></a></p><br><br>
 </div>
 
@@ -90,7 +91,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 
-<h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/>Github stats:</h2> 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
