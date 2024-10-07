@@ -48,17 +48,21 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kgdtdilushanka&" alt="kgdtdilushanka" /></p>
+<br/>
+<br/>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
 
 
 <br/>
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20">Github stats:</h2> 
 <p align="center">
