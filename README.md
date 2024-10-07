@@ -41,27 +41,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <p><a href="https://www.buymeacoffee.com/themikadilushanka"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Themika Dilushanka" /></a></p><br><br>
 </div>
 
-<br/>
 
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
-<br/>
-<br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
@@ -89,9 +69,14 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
-
-
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/>Github stats:</h2> 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
+<br/>
+<br/>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
+
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
