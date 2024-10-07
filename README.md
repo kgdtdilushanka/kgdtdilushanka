@@ -10,8 +10,8 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 - 🌱 I’m currently learning to learn.
 - 🥅 API's are fun, i like to play with twitter,youtube Apis.
