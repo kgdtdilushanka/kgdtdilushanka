@@ -69,7 +69,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
-<h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/>Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> <br/><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Github stats:</h2> 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
 <br/>
