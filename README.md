@@ -9,7 +9,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me:<img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="30px">
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
@@ -24,7 +24,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br/>
 
 <div align="center">
-<h3 align="center" > <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px">Connect with me</h3>
+<h3 align="center" >Connect with me<img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="40px"></h3>
 
 
 <a href="www.linkedin.com/in/themika-dilushanka-41100130a" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
