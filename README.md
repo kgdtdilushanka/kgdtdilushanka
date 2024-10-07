@@ -5,14 +5,13 @@ Themika</a> <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat
 <h3 align="center">I am an undergraduate at the Faculty of Software Engineering, Birmingham City University.
 I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
-<a target="_blank" align="center">
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<br/>
-<br/>
 
 
-### 👨🏻‍💻 About Me
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🌱 I’m currently learning to learn.
 - 🥅 API's are fun, i like to play with twitter,youtube Apis.
@@ -25,7 +24,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br/>
 
 <div align="center">
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
 
 
 <a href="www.linkedin.com/in/themika-dilushanka-41100130a" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
@@ -45,14 +44,15 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgdtdilushanka" alt="kgdtdilushanka" /></a> </p>
 <br/>
 <br/>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kgdtdilushanka&show_icons=true&locale=en" alt="kgdtdilushanka" /></p>
 
 
+
 <br/>
 <br/>
 <br/>
@@ -61,8 +61,38 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <br/>
 <br/>
 <br/>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
+
+###  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20">Github stats:</h2> 
 <p align="center">
