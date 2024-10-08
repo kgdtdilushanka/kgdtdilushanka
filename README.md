@@ -14,10 +14,9 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 - 🌱 I’m currently learning to learn.
-- 🥅 API's are fun, i like to play with twitter,youtube Apis.
 - ⚡ Learning something new everyday keps my dopamine levels high.
-- 🎒 I'm a second-year graduate student.
-- 🤝 I’m available for freelancing.,Html & PHP<a></a>
+- 🎒 I'm a second-year student.
+- 🤝 I’m available for Java,Html & PHP
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kgdthemikadilushanka@gmail.com)
 - ❤️ thank you so much for reading it ❤️
 <br/>
