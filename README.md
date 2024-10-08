@@ -38,7 +38,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 <div align="center">
 <h3 align="center">Support:<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="40">&nbsp;</h2>
 </h3>
-<p><a href="buymeacoffee.com/themikadilushanka"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Themika Dilushanka" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/themikadilushanka"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Themika Dilushanka" /></a></p><br><br>
 </div>
 
 
