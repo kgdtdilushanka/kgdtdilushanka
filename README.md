@@ -10,6 +10,7 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me:<img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="30px">
+
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
@@ -19,6 +20,8 @@ I am reading for a BSc. (Hons.) Degree in Software Engineering.</h3>
 - 🤝 I’m available for Java,Html & PHP
 - 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:kgdthemikadilushanka@gmail.com)
 - ❤️ thank you so much for reading it ❤️
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgdtdilushanka&label=Profile%20views&color=0e75b6&style=flat" alt="kgdtdilushanka" /> </p>
+
 <br/>
 <br/>
 
